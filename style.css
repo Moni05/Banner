@@ -1,0 +1,105 @@
+.header, .text{
+    text-align: center;
+}
+.heading{
+    text-transform: uppercase;
+    font-size: 78px;
+    color: red;
+    font-family: Impact;
+}
+body{
+    background-color: black !important;
+}
+.logo {
+    width: 15%;
+    border-radius: 50%;
+    background: lightblue;
+}
+
+.chronic-condition {
+    width: 50%;
+}
+.spacings{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: #00a1ff;
+}
+.red{
+    background-color: red;
+}
+.alignment {
+    padding-top: 86px;
+}
+p{
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+}
+.highlight {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: Impact;
+}
+
+.numberings{
+    font-size: 56px;
+}
+.title1{
+    font-size: 68px;
+    word-spacing: 5px;
+}
+.tv{
+    width: 25%
+}
+.title{
+    font-size: 48px;
+    word-spacing: 5px;
+}
+.cycle{
+    width: 60%
+}
+.pictures{
+    width: 20%;
+}
+.risks{
+    width: 13%
+}
+.pics,.text {
+    padding-top: 20px;
+}
+.highlighter{
+    font-weight: 500;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-family: Impact;
+}
+.decoration{
+    text-decoration: underline;
+}
+.cases{
+    text-transform: uppercase;
+}
+.left{
+    text-align: left;
+    padding-top: 15px
+}
+
+.left-img{
+    padding-top: 15px;
+}
+.leftcol{
+    text-align: left;
+}
+
+@media only screen and (max-width: 560px) {
+    .logo {
+      width: 40%
+    }
+  }
